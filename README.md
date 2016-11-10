@@ -1,7 +1,7 @@
 DEPRECATED: Vaadin Icons Files
 ==============================
 This repository is no longer maintained. Its assets have moved to
-https://github.com/vaadin/vaadin-icons/assets .
+https://github.com/vaadin/vaadin-icons .
 
 
 
